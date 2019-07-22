@@ -6,7 +6,7 @@
 
 取材自以下資源
 --------
-bilibili - 高清新番原創視頻社區
+bilibili - 高清新番原創視頻社區                                                                 
 https://play.google.com/store/apps/details?id=com.bilibili.app.in&hl=zh_TW                                                                 
 
 DKVideoPlayer                                                                 
