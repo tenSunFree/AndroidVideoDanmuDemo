@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/dkplayer-java" />
+            <option value="$PROJECT_DIR$/dkplayer-players" />
+            <option value="$PROJECT_DIR$/dkplayer-players/exo" />
+            <option value="$PROJECT_DIR$/dkplayer-players/ijk" />
+            <option value="$PROJECT_DIR$/dkplayer-players/ijk-arm64" />
+            <option value="$PROJECT_DIR$/dkplayer-players/ijk-armv5" />
+            <option value="$PROJECT_DIR$/dkplayer-players/ijk-armv7a" />
+            <option value="$PROJECT_DIR$/dkplayer-players/ijk-x86" />
+            <option value="$PROJECT_DIR$/dkplayer-players/ijk-x86_64" />
+            <option value="$PROJECT_DIR$/dkplayer-ui" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
